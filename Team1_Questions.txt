@@ -1,0 +1,8 @@
+Team 1: 
+- Pun Solita
+- Som Deborah
+- Sim Thydatepin
+
+Questions: 
+- Do you have any feedbacks on our K-means graph?
+- We are still unsure about our evaluation, please kindly comment any mistakes we might did in our code. 
